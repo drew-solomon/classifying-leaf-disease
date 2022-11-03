@@ -78,14 +78,14 @@ We described our project process - from data exploration and augmentation to tra
 - [Blog - Part 3](https://roma-coffin.medium.com/categorizing-cassava-leaf-diseases-part-3-bbf6d002d3d8)
 
 ## Contributing Members
-[Annie Phan](https://github.com/annieptba)
-[Roma Coffin](https://github.com/romacoffin)
-[Drew Solomon](https://github.com/drew-solomon) (me)
+- [Annie Phan](https://github.com/annieptba)
+- [Roma Coffin](https://github.com/romacoffin)
+- [Drew Solomon](https://github.com/drew-solomon) (me)
 
 
 ## Acknowledgements
 
 - This project task and data was sourced from Kaggle’s Cassava Leaf Disease Classification [competition](https://www.kaggle.com/competitions/cassava-leaf-disease-classification/overview).
 - As such, many thanks to the Makerere Artificial Intelligence (AI) Lab at Makerere University in Uganda - who apply AI and data science to real-word challenges, as well as to the experts and collaborators from National Crops Resources Research Institute (NaCRRI) for assisting in preparing this dataset.
-- All sources for our EDA and model development are listed in our blog posts ([1](https://roma-coffin.medium.com/categorizing-cassava-leaf-diseases-dbd08fcc671), [2](https://roma-coffin.medium.com/using-deep-learning-to-classify-cassava-leaf-diseases-part-2-1321cd61d46), and [3](https://roma-coffin.medium.com/categorizing-cassava-leaf-diseases-part-3-bbf6d002d3d8))
+- All of our sources for our EDA and model development are listed in our blog posts ([1](https://roma-coffin.medium.com/categorizing-cassava-leaf-diseases-dbd08fcc671), [2](https://roma-coffin.medium.com/using-deep-learning-to-classify-cassava-leaf-diseases-part-2-1321cd61d46), and [3](https://roma-coffin.medium.com/categorizing-cassava-leaf-diseases-part-3-bbf6d002d3d8)) in the *Sources Used* section.
 - Many thanks to Annie and Roma for your collaboration!
