@@ -1,5 +1,5 @@
 # Classifying Cassava Leaf Disease
- This project classifies cassava leaf diseases using image augmentation and transfer learning with CNN models.\
+ This project classifies cassava leaf diseases using deep learning, leveraging image augmentation and transfer learning with CNN models.\
 _(Midterm Project for DATA 2040 - Deep Learning @ Brown University Spring 2021)_
 
 ## Table of Contents
